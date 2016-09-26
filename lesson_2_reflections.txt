@@ -13,3 +13,7 @@ A3. In the staging area you can commit individual changes one at a time by using
 Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A4. Branches are useful if you wish to make different versions of your document. Be it for a different language version or to try new experimental features but whilst also maintaining a main version without these experimental features or still in English etc. Branches help because you can just edit the branches you want to rather than changing your master file.
+
+Q5. How do the diagrams help you visualize the branch structure?
+
+A5. Drawing diagrams help view the branch structure, placing which commits are in which branch, and also if a commit is unreachable or not.
