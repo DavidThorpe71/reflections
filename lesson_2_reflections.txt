@@ -1,0 +1,7 @@
+Q1. What happens when you initialize a repository? Why do you need to do it?
+
+A1. When you initialise a repository a .git folder is created in the directory and you are ready to start using the repository (at this stage the files within the directory are untracked).
+
+Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A1. The staging area allows you to select which files will be added when you commit. This enables you to add and remove files before you start committing and leaving the working directory files intact.
