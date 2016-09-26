@@ -4,4 +4,12 @@ A1. When you initialise a repository a .git folder is created in the directory a
 
 Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-A1. The staging area allows you to select which files will be added when you commit. This enables you to add and remove files before you start committing and leaving the working directory files intact.
+A2. The staging area allows you to select which files will be added when you commit. This enables you to add and remove files before you start committing and leaving the working directory files intact.
+
+Q3. How can you use the staging area to make sure you have one commit per logical change?
+
+A3. In the staging area you can commit individual changes one at a time by using git diff to compare the working directory and the staging area and git diff --staged to compare staging area to the commit and finally you can commit what is in the staging area using the command git commit.
+
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A4. Branches are useful if you wish to make different versions of your document. Be it for a different language version or to try new experimental features but whilst also maintaining a main version without these experimental features or still in English etc. Branches help because you can just edit the branches you want to rather than changing your master file.
