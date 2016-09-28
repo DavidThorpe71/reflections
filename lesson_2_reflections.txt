@@ -21,3 +21,7 @@ A5. Drawing diagrams help view the branch structure, placing which commits are i
 Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A6. Merging two branches together means we can access all the commits from both branches and still be at the head of the master brancgh, it also enables us to delete old branches, but still includes all the commit's from this deleted branch.
+
+Q7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A7. A pro of automatic merging is that any files where there are no conflicts are automatically merged saving a lot of time, manually finding them. It is also useful that some merges you need to do manually (if there is a conflict) so you can select which version to choose yourself.
