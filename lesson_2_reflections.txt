@@ -17,3 +17,7 @@ A4. Branches are useful if you wish to make different versions of your document.
 Q5. How do the diagrams help you visualize the branch structure?
 
 A5. Drawing diagrams help view the branch structure, placing which commits are in which branch, and also if a commit is unreachable or not.
+
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A6. Merging two branches together means we can access all the commits from both branches and still be at the head of the master brancgh, it also enables us to delete old branches, but still includes all the commit's from this deleted branch.
