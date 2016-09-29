@@ -1,1 +1,8 @@
-When would you want to create a remote repository rather than keeping all your work local?
+Q1. When would you want to create a remote repository rather than keeping all your work local?
+
+A1. When you wish to be able to access your work from a number of diffeent places and edit it storing on the cloud via creating a remote is very useful, also if you wish to be able to collaborate with other people on the project too.
+
+
+Q2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A2. Manually pulling changes mean you can decide whether you wan to pull these changes yourself or if they are not changes that you wich to use.
