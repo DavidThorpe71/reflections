@@ -25,3 +25,7 @@ A6. Merging two branches together means we can access all the commits from both 
 Q7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 A7. A pro of automatic merging is that any files where there are no conflicts are automatically merged saving a lot of time, manually finding them. It is also useful that some merges you need to do manually (if there is a conflict) so you can select which version to choose yourself.
+
+Q8. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A8. A branch is when you beginning working on a file seperately from the master branch locally. A clone is a clone of a Github so you can store on your local machine to work on, and a Fork is a clone of a github onto Github, so you can work on someone elses file, crediting that user on Github itself, you can then clone this git to your local machine to work on it locally.
