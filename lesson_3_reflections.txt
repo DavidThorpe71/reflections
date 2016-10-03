@@ -18,3 +18,7 @@ A4. This is helpful as then when you need to re-upload your changes you can choo
 Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A5. Without Git and Github collabortaion would be much harder, either only one person could work on the file at a time or you would have to manually compare files after you have each updated them to find out who changed what.
+
+Q6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A6. Making changes in a different branch enables you to ask the perosn who is working from the main branch whether they would like to include your changes, and enables them to view the changes before making that decision.
